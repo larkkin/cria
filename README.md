@@ -6,9 +6,9 @@ Llama Hackathon project: on-device llama. CV + grounded llama on llamaindex + tr
 converted model PTE file(too big for github): https://drive.google.com/file/d/17vEz213Uo3w_6tVBiWqYZkkDRxreGj0_/view?usp=drive_link
 
 Future Enhancement Plans:
-Multilingual better embeddings
-Lightweight CV on mobile 
-Better RAG 
-Custom Prompting
+Multilingual better embeddings, 
+Lightweight CV on mobile , 
+Better RAG,  
+Custom Prompting, 
 All working on mobile!
 
